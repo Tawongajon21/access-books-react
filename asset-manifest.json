@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/access-books/static/css/main.c563cead.chunk.css",
+    "main.js": "/access-books/static/js/main.fc5f5d7d.chunk.js",
+    "main.js.map": "/access-books/static/js/main.fc5f5d7d.chunk.js.map",
+    "runtime-main.js": "/access-books/static/js/runtime-main.d186d1ad.js",
+    "runtime-main.js.map": "/access-books/static/js/runtime-main.d186d1ad.js.map",
+    "static/js/2.db46c4b2.chunk.js": "/access-books/static/js/2.db46c4b2.chunk.js",
+    "static/js/2.db46c4b2.chunk.js.map": "/access-books/static/js/2.db46c4b2.chunk.js.map",
+    "index.html": "/access-books/index.html",
+    "static/css/main.c563cead.chunk.css.map": "/access-books/static/css/main.c563cead.chunk.css.map",
+    "static/js/2.db46c4b2.chunk.js.LICENSE.txt": "/access-books/static/js/2.db46c4b2.chunk.js.LICENSE.txt",
+    "static/media/Growing.7384878f.pdf": "/access-books/static/media/Growing.7384878f.pdf",
+    "static/media/bookProject.css": "/access-books/static/media/bg.8d66c577.webp",
+    "static/media/deepWork.3b35695d.pdf": "/access-books/static/media/deepWork.3b35695d.pdf",
+    "static/media/deepwork.2b61cb88.webp": "/access-books/static/media/deepwork.2b61cb88.webp",
+    "static/media/default.9097e99a.webp": "/access-books/static/media/default.9097e99a.webp",
+    "static/media/expel.333df57a.pdf": "/access-books/static/media/expel.333df57a.pdf",
+    "static/media/faith.cca7af4b.webp": "/access-books/static/media/faith.cca7af4b.webp",
+    "static/media/food.3c873c47.pdf": "/access-books/static/media/food.3c873c47.pdf",
+    "static/media/growingInFath.aecde50f.pdf": "/access-books/static/media/growingInFath.aecde50f.pdf",
+    "static/media/node.43cf78af.pdf": "/access-books/static/media/node.43cf78af.pdf",
+    "static/media/node.b9ca9914.webp": "/access-books/static/media/node.b9ca9914.webp",
+    "static/media/outliers.cb58ca7e.pdf": "/access-books/static/media/outliers.cb58ca7e.pdf",
+    "static/media/photo-twenty.6799bf69.webp": "/access-books/static/media/photo-twenty.6799bf69.webp",
+    "static/media/react.3d5a0cac.pdf": "/access-books/static/media/react.3d5a0cac.pdf",
+    "static/media/rightAndGoodThinking.71b06129.pdf": "/access-books/static/media/rightAndGoodThinking.71b06129.pdf",
+    "static/media/rightandwrong.4969d873.webp": "/access-books/static/media/rightandwrong.4969d873.webp",
+    "static/media/tongues.d6488d7c.pdf": "/access-books/static/media/tongues.d6488d7c.pdf",
+    "static/media/triumphant .75a62528.webp": "/access-books/static/media/triumphant .75a62528.webp",
+    "static/media/triumphantChurch.8605edcd.pdf": "/access-books/static/media/triumphantChurch.8605edcd.pdf",
+    "static/media/visions.8462cf1a.pdf": "/access-books/static/media/visions.8462cf1a.pdf",
+    "static/media/vol1.7f9edf60.pdf": "/access-books/static/media/vol1.7f9edf60.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d186d1ad.js",
+    "static/js/2.db46c4b2.chunk.js",
+    "static/css/main.c563cead.chunk.css",
+    "static/js/main.fc5f5d7d.chunk.js"
+  ]
+}
